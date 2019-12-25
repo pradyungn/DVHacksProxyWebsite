@@ -3920,3 +3920,16 @@ input, select, textarea {
 	font-size: 4.5rem;
 }
 
+.brandimg{
+	margin-left: 70%;
+	margin-top: -10%;
+	overflow:hidden;
+}
+
+.brandimg img{
+	position:absolute;
+	width: 30%;
+	height:auto;
+	text-align:right;
+}
+
