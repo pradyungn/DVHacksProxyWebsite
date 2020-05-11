@@ -16,7 +16,7 @@
   "license": "MIT",
   "homepage": "https://github.com/pradyungn/DVHacksProxyWebsite#readme",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "vivus": "^0.4.4",
     "webpack": "^4.29.0",
     "webpack-cli": "^3.2.1",
